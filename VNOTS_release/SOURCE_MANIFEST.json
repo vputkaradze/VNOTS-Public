@@ -1,0 +1,41 @@
+{
+  "Double chamber piston/parameters.py": {
+    "sha256": "339b077c533d7066a4e8a1cbe172474a9c52f0b233998cfe4580e0dd727e23aa"
+  },
+  "Double chamber piston/useful_programs.py": {
+    "sha256": "41a6a8127686068e1c38032ae79f690bd7d7238f3dbdaa50480a5829a5442ef0"
+  },
+  "Double chamber piston/dp_train_one_case.py": {
+    "sha256": "ffad12a0a78e3a91fdcc8486d918b8e9175c29197a3eefc4fa43ed0554f153ab"
+  },
+  "SO3_computations/parameters.py": {
+    "sha256": "cb483f867b47082b8bbe9f53d0748f16d8c8a7df70660fdc40a77d9be85e60f1"
+  },
+  "SO3_computations/useful_programs.py": {
+    "sha256": "7069d843831350a9fd1130b0f487af5424cfb652beee9f1392a0a315ed756b6c"
+  },
+  "SO3_computations/so3_case.py": {
+    "sha256": "5bfb338a14e5964022160151020146f6e8b9ad51dd7e5c723be9ff693ca59bbb"
+  },
+  "Double chamber piston/dp_generate_data.py": {
+    "sha256": "149c89e37ecdd823cc2760e2f0bacd828fc6e497e600b724f747c0aad19fdfe5"
+  },
+  "Double chamber piston/Reconstruction_double_piston.py": {
+    "sha256": "5e7291b7889812e096c4fb7e2c1e916648bce4aeb7f4b260ac0ccb7dc677a5db"
+  },
+  "Double chamber piston/Plot_all_variables_V6.py": {
+    "sha256": "542b183ee8d56d41106b802f0369f55398b29d12d1b7bd21a9a22437ceddb086"
+  },
+  "SO3_computations/Generate_data_SO3_diss_observable.py": {
+    "sha256": "931dcf49bfd245108af628997b47e44ba85488a4127594231de9814a7a961893"
+  },
+  "SO3_computations/so3_reconstruction_only.py": {
+    "sha256": "134724286a974cca90cdc71c1d1b38e3edbf2ca05ec63150e128f39bb38fdece"
+  },
+  "SO3_computations/plot_all_variable_V5.py": {
+    "sha256": "524975060dc3f020f7b5746b07465b87370e0bab5eb0248ad2326054f78678b9"
+  },
+  "SO3_computations/run_so3.sh": {
+    "sha256": "00ba15e45bf679b50ab78992cd765e884772dafb385e30e5e2a881b39c22de6e"
+  }
+}
